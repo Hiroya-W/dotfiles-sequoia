@@ -12,7 +12,7 @@ This is my Linux i3wm desktop with [Sequoia Moonlight color scheme](https://sequ
 - GTK Theme: Customized based on Breeze-Dark
 - GTK Icons: [Breeze-Dark - Pink Color Scheme](https://store.kde.org/p/1264277)
 - Terminal: Wezterm
-  - Theme: Sequoia-Moonlight
+  - Theme: [Sequoia-Moonlight](Hiroya-W/wezterm-sequoia-theme)
   - Terminal Font: [HackGen](https://github.com/yuru7/HackGen)
 
 ![image](https://user-images.githubusercontent.com/43127622/185773233-e2c20f5d-df51-48d7-8b5d-6e8535e89bd7.png)
