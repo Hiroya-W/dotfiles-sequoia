@@ -1,0 +1,6 @@
+[submodule "config/polybar_themes/polybar-sequoia-theme"]
+	path = config/polybar_themes/polybar-sequoia-theme
+	url = https://github.com/Hiroya-W/polybar-sequoia-theme.git
+[submodule "config/rofi_themes/rofi"]
+	path = config/rofi_themes/rofi
+	url = https://github.com/Hiroya-W/rofi.git
