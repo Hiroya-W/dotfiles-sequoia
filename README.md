@@ -8,7 +8,7 @@ This is my Linux i3wm desktop with [Sequoia Moonlight color scheme](https://sequ
 - Bar: [polybar](https://github.com/polybar/polybar)
   - Theme: [polybar-sequoia-theme](https://github.com/Hiroya-W/polybar-sequoia-theme)
 - Launcher: [rofi](https://github.com/davatorium/rofi)
-  - Theme: [rofi - misc/blurry_full theme](https://github.com/adi1090x/rofi)
+  - Theme: [rofi - misc/blurry_full theme](https://github.com/Hiroya-W/rofi)
 - GTK Theme: Customized based on Breeze-Dark
 - GTK Icons: [Breeze-Dark - Pink Color Scheme](https://store.kde.org/p/1264277)
 - Terminal: Wezterm
