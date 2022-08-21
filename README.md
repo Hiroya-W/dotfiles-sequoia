@@ -45,3 +45,7 @@ Each tool has its own repository for theme development.
 ![demo](https://user-images.githubusercontent.com/43127622/182034704-89f72177-98df-4737-979b-143b53e345c5.png)
 
 - [Hiroya-W/sequoia-moonlight.nvim](https://github.com/Hiroya-W/sequoia-moonlight.nvim)
+
+## Author 
+
+[Hiroya-W](https://github.com/Hiroya-W)
